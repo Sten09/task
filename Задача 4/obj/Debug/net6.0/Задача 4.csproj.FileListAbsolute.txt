@@ -1,0 +1,15 @@
+/home/user/Документы/обучение/examples/task/Задача 4/obj/Debug/net6.0/Задача 4.csproj.AssemblyReference.cache
+/home/user/Документы/обучение/examples/task/Задача 4/obj/Debug/net6.0/Задача 4.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Документы/обучение/examples/task/Задача 4/obj/Debug/net6.0/Задача 4.AssemblyInfoInputs.cache
+/home/user/Документы/обучение/examples/task/Задача 4/obj/Debug/net6.0/Задача 4.AssemblyInfo.cs
+/home/user/Документы/обучение/examples/task/Задача 4/obj/Debug/net6.0/Задача 4.csproj.CoreCompileInputs.cache
+/home/user/Документы/обучение/examples/task/Задача 4/bin/Debug/net6.0/Задача 4
+/home/user/Документы/обучение/examples/task/Задача 4/bin/Debug/net6.0/Задача 4.deps.json
+/home/user/Документы/обучение/examples/task/Задача 4/bin/Debug/net6.0/Задача 4.runtimeconfig.json
+/home/user/Документы/обучение/examples/task/Задача 4/bin/Debug/net6.0/Задача 4.dll
+/home/user/Документы/обучение/examples/task/Задача 4/bin/Debug/net6.0/Задача 4.pdb
+/home/user/Документы/обучение/examples/task/Задача 4/obj/Debug/net6.0/Задача 4.dll
+/home/user/Документы/обучение/examples/task/Задача 4/obj/Debug/net6.0/refint/Задача 4.dll
+/home/user/Документы/обучение/examples/task/Задача 4/obj/Debug/net6.0/Задача 4.pdb
+/home/user/Документы/обучение/examples/task/Задача 4/obj/Debug/net6.0/Задача 4.genruntimeconfig.cache
+/home/user/Документы/обучение/examples/task/Задача 4/obj/Debug/net6.0/ref/Задача 4.dll
